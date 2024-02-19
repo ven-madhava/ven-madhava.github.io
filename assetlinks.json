@@ -1,0 +1,1 @@
+[ { "relation": [ "delegate_permission/common.handle_all_urls" ], "target": { "namespace": "android_app", "package_name": "com.happn", "sha256_cert_fingerprints": [ "39:50:53:D2:93:95:70:EB:4B:9D:34:6F:0A:87:6C:FD:37:F6:6E:DA:3A:44:F1:2E:46:F7:88:19:55:34:8D:43", "6C:8B:3F:82:80:62:61:72:CD:BF:45:73:4F:4D:89:9E:D1:8C:F8:51:B3:06:5D:8E:78:36:15:CE:0A:7B:38:64" ] } } ]
